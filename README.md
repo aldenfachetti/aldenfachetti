@@ -1,7 +1,7 @@
-# <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/rubik_cube_animation.gif" width="30px"/> < Alden Merlin /> <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/uptocode-animation.gif" width="50px"/>
+# <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/rubik_cube_animation.gif" width="40px"/> < Alden Merlin /> <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/uptocode-animation.gif" width="50px"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alden-fachetti/)](https://www.linkedin.com/in/alden-fachetti){:target="\_blank"}
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldenmerlin@gmail.com)](mailto:aldenmerlin@gmail.com){:target="\_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alden-fachetti/){:target="\_blank"}](https://www.linkedin.com/in/alden-fachetti)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldenmerlin@gmail.com){:target="\_blank"}](mailto:aldenmerlin@gmail.com)
 
 ### 🔭 🚀 I'm currently working...
 
