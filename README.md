@@ -1,11 +1,11 @@
-# < Alden Merlin /> <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/uptocode-animation.gif" width="50px"/> <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/rubik_cube_animation.gif" width="40px"/>
+# <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/rubik_cube_animation.gif" width="40px"/> < Alden Merlin /> <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/rubik_cube_animation.gif" width="40px"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alden-fachetti/)](https://www.linkedin.com/in/alden-fachetti)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldenmerlin@gmail.com)](mailto:aldenmerlin@gmail.com)
 
 ### 🔭 🚀 I'm currently working...
 
-with Senior Front-End at Youse - Caixa Seguradora.<br>
+a Senior Front-End at Youse - Caixa Seguradora.<br>
 Keen on challenges, for ways to improve and solve problems.
 
 ### 🌱 🧙 I'm currently focused on ...
