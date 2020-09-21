@@ -1,4 +1,4 @@
-# <img src="https://cdn.dribbble.com/users/30388/screenshots/2922677/uptocode-animation-loop-dribbble.gif" width="40px"> < Alden Merlin />
+# <img src="https://cdn.dribbble.com/users/30388/screenshots/2922677/uptocode-animation-loop-dribbble.gif" width="50px"> < Alden Merlin /> <img src="https://i.pinimg.com/originals/7b/df/16/7bdf164aaed98d4336084d0b33e3e588.gif" width="50px"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alden-fachetti/)](https://www.linkedin.com/in/alden-fachetti)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldenmerlin@gmail.com)](mailto:aldenmerlin@gmail.com)
