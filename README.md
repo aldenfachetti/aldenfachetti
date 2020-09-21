@@ -1,13 +1,23 @@
-<div style="text-align:center">
-
-# <img src="https://media.giphy.com/media/TH15EKfuwxOsuf80Nw/source.gif" width="30px"> Hello, I'm Alden!
+# <img src="https://cdn.dribbble.com/users/1141571/screenshots/3978167/dribbble_3.gif" width="50px"> < Alden Merlin />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alden-fachetti/)](https://www.linkedin.com/in/alden-fachetti)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldenmerlin@gmail.com)](mailto:aldenmerlin@gmail.com)
 
-## About me
+```javascript
+const aldenmerlin = {
+  code: [Javascript, HTML, CSS],
+  technologies: [Node, ReactJS],
+  tools: [GatsbyJS, TypeScript],
+};
+```
 
-Programmer who likes to always be learning and sharing what he knows.
+### I'm currently focused on 👨‍💻
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=aldenfachetti&hide_title=true&include_all_commits=true&count_private=true&hide=issues&show_icons=true&theme=graywhite&title_color=03a9f4)](https://github.com/aldenfachetti)
+Trying to improve my skills on both NodeJS and ReactJS. I have been developing my **front-end** skills in projects with ReactJS using GatbsyJS.
+
+<img src="https://github.com/aldenfachetti/aldenfachetti/master/nodejs.png" width="50">
+<img src="https://github.com/aldenfachetti/aldenfachetti/master/reactjs.png" width="50" >
+<img src="https://github.com/aldenfachetti/aldenfachetti/master/gatsbyjs.png" width="50" >
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=aldenfachetti&hide_title=true&include_all_commits=true&count_private=true&hide=issues&show_icons=true&theme=react&title_color=61dafb&icon_color=61dafb&text_color=ebcfb2)](https://github.com/aldenfachetti)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldenfachetti)](https://github.com/aldenfachetti/github-readme-stats)
