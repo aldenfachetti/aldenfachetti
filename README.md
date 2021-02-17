@@ -5,7 +5,7 @@
 
 ### 🔭 🚀 I'm currently working...
 
-a Senior Front-End at Youse - Caixa Seguradora.<br>
+Head of Front-End at Eletromidia.<br>
 Keen on challenges, for ways to improve and solve problems.
 
 ### 🌱 🧙 I'm currently focused on ...
