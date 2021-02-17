@@ -13,8 +13,8 @@ Keen on challenges, for ways to improve and solve problems.
 ```javascript
 const aldenmerlin = {
   code: [Javascript, HTML, CSS],
-  technologies: [Node, ReactJS],
-  tools: [GatsbyJS, TypeScript],
+  technologies: [NodeJS, ReactJS],
+  tools: [GatsbyJS, NextJS, TypeScript],
 };
 ```
 
