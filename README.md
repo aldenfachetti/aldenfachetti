@@ -5,7 +5,7 @@
 
 ### 🔭 🚀 I'm currently working...
 
-Head of Front-End at Eletromidia.<br>
+Lead Front-End Engineer at Eletromidia.<br>
 Keen on challenges, for ways to improve and solve problems.
 
 ### 🌱 🧙 I'm currently focused on ...
