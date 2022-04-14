@@ -27,4 +27,4 @@ const aldenmerlin = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldenfachetti)](https://github.co![Uploading Typescript_logo_2020.svg…]()
 m/aldenfachetti/github-readme-stats)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=aldenfachetti&include_all_commits=true&count_private=true&hide=issues&show_icons=true&theme=react&title_color=61dafb&icon_color=61dafb&text_color=a599e9)](https://github.com/aldenfachetti)
+[![Github stats](https://github-readme-stats.vercel.app/apiusername=aldenfachetti&include_all_commits=true&count_private=true&hide=issues&show_icons=true&theme=react&title_color=61dafb&icon_color=61dafb&text_color=a599e9)](https://github.com/aldenfachetti)
