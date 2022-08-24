@@ -23,3 +23,7 @@ const aldenmerlin = {
 [![Github stats](https://github-readme-stats.vercel.app/api?username=aldenfachetti&include_all_commits=true&count_private=true&hide=issues&show_icons=true&theme=react&title_color=61dafb&icon_color=61dafb&text_color=a599e9)](https://github.com/aldenfachetti)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldenfachetti)](https://github.com/aldenfachetti/github-readme-stats)
+
+ ### Snake eating my contribution graph
+
+![snake gif](https://github.com/aldenfachetti/aldenfachetti/blob/output/github-contribution-grid-snake.svg)
