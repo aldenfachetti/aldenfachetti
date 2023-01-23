@@ -5,7 +5,7 @@
 
 ### 🔭 🚀 I'm currently working...
 
-Software Engineer Manager at Credihome by Loft.<br>
+Software Engineer Manager at Loft.<br>
 Keen on challenges, for ways to improve and solve problems.
 
 ### 🌱 🧙 I'm currently focused on ...
