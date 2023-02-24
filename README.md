@@ -13,12 +13,12 @@ Keen on challenges, for ways to improve and solve problems.
 ```javascript
 const aldenmerlin = {
   code: [Javascript, HTML, CSS],
-  technologies: [ReactJS, NodeJS],
-  tools: [TypeScript, NextJS, GatsbyJS],
+  technologies: [ReactJS, GraphQL, NodeJS],
+  tools: [TypeScript, NextJS, GatsbyJS, Storybook],
 };
 ```
 
-<img width="50" alt="JavaScript logo" src="https://user-images.githubusercontent.com/12265786/163332940-949590c9-9c0a-4a3c-9b8d-813e43407fb6.png"> <img width="50" alt="ReactJS logo" src="https://github.com/aldenfachetti/aldenfachetti/blob/master/reactjs.png"> <img width="50" alt="NodeJS logo" src="https://github.com/aldenfachetti/aldenfachetti/blob/master/nodejs.png"> <img width="50" alt="TypsScript logo" src="https://user-images.githubusercontent.com/12265786/221130531-224cb529-cf28-48ac-b8ac-ab551fd6635e.png"> <img width="50" alt="NextJS logo" src="https://user-images.githubusercontent.com/12265786/163332002-216f21d4-a367-499d-999b-491f6c31b0c0.png"> <img width="50" alt="GatsbyJS logo" src="https://github.com/aldenfachetti/aldenfachetti/blob/master/gatsbyjs.png">
+<img width="50" alt="JavaScript logo" src="https://user-images.githubusercontent.com/12265786/163332940-949590c9-9c0a-4a3c-9b8d-813e43407fb6.png"> <img width="50" alt="ReactJS logo" src="https://github.com/aldenfachetti/aldenfachetti/blob/master/reactjs.png"> <img width="50" alt="TypsScript logo" src="https://user-images.githubusercontent.com/12265786/221130531-224cb529-cf28-48ac-b8ac-ab551fd6635e.png"> <img width="50" alt="GraphQL logo" src="https://user-images.githubusercontent.com/12265786/221132237-3a1952ea-b07d-4c65-89a6-1a51c2aba129.png"> <img width="50" alt="NodeJS logo" src="https://github.com/aldenfachetti/aldenfachetti/blob/master/nodejs.png"> <img width="50" alt="NextJS logo" src="https://user-images.githubusercontent.com/12265786/221136077-62c05418-04c4-4c0c-bcf7-947d16d31347.png"> <img width="50" alt="GatsbyJS logo" src="https://github.com/aldenfachetti/aldenfachetti/blob/master/gatsbyjs.png"> <img height="45" alt="Storybook logo" src="https://user-images.githubusercontent.com/12265786/221134849-1afbfcd7-e9ff-4bf4-8ddb-ba2a910737f6.png">
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=aldenfachetti&include_all_commits=true&count_private=true&hide=issues&show_icons=true&theme=react&title_color=61dafb&icon_color=61dafb&text_color=a599e9)](https://github.com/aldenfachetti)
 
