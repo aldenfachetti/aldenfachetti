@@ -1,4 +1,4 @@
-# <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/rubik_cube_animation.gif" width="30"/> < Alden Merlin /> <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/rubik_cube_animation.gif" width="30"/>
+# <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/rubik_cube_animation.gif" width="30"/> < Merlin 🧙🏼‍♀️ /> <img src="https://github.com/aldenfachetti/aldenfachetti/blob/master/rubik_cube_animation.gif" width="30"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alden-fachetti/)](https://www.linkedin.com/in/alden-fachetti)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldenmerlin@gmail.com)](mailto:aldenmerlin@gmail.com)
