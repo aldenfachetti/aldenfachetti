@@ -5,16 +5,16 @@
 
 ### 🔭 🚀 I'm currently working...
 
-Software Engineering Manager at Loft.<br>
+Software Engineering Manager.<br>
 Keen on challenges, for ways to improve and solve problems.
 
 ### 🌱 🧙 I'm currently focused on ...
 
 ```javascript
 const aldenmerlin = {
-  code: [Javascript, HTML, CSS],
+  code: [Javascript, HTML, CSS, Tailwind CSS],
   technologies: [ReactJS, GraphQL, NodeJS],
-  tools: [TypeScript, NextJS, GatsbyJS, Storybook],
+  tools: [TypeScript, NextJS, GatsbyJS, Storybook, ViteJS],
 };
 ```
 
