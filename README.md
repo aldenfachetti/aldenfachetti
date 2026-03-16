@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alden-fachetti/)](https://www.linkedin.com/in/alden-fachetti)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldenmerlin@gmail.com)](mailto:aldenmerlin@gmail.com)
 
-### 🚀 Software Engineering Manager 🔭
+### 🚀 Software Engineer 🔭
 
 Keen on challenges, for ways to improve and solve problems.
 
